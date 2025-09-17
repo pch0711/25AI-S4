@@ -7,6 +7,7 @@ int main() {
 
     while (i < 5) 
     {
+        Sleep(1000);
         j = 0;
         while (j < 5) 
         {
